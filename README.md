@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-##### Hi there 👋
+#####
 
 <!--
 **kevilla160/kevilla160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
